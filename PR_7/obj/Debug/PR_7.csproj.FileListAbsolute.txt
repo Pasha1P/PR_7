@@ -1,0 +1,14 @@
+C:\Users\01\Desktop\паша\PR_7\PR_7\bin\Debug\PR_7.exe.config
+C:\Users\01\Desktop\паша\PR_7\PR_7\bin\Debug\PR_7.exe
+C:\Users\01\Desktop\паша\PR_7\PR_7\bin\Debug\PR_7.pdb
+C:\Users\01\Desktop\паша\PR_7\PR_7\obj\Debug\PR_7.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\паша\PR_7\PR_7\obj\Debug\PR_7.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\паша\PR_7\PR_7\obj\Debug\PR_7.exe
+C:\Users\01\Desktop\паша\PR_7\PR_7\obj\Debug\PR_7.pdb
+D:\Users\1213N-8\Downloads\PR_7-main\PR_7\bin\Debug\PR_7.exe.config
+D:\Users\1213N-8\Downloads\PR_7-main\PR_7\bin\Debug\PR_7.exe
+D:\Users\1213N-8\Downloads\PR_7-main\PR_7\bin\Debug\PR_7.pdb
+D:\Users\1213N-8\Downloads\PR_7-main\PR_7\obj\Debug\PR_7.csproj.AssemblyReference.cache
+D:\Users\1213N-8\Downloads\PR_7-main\PR_7\obj\Debug\PR_7.csproj.CoreCompileInputs.cache
+D:\Users\1213N-8\Downloads\PR_7-main\PR_7\obj\Debug\PR_7.exe
+D:\Users\1213N-8\Downloads\PR_7-main\PR_7\obj\Debug\PR_7.pdb
